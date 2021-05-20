@@ -1,7 +1,6 @@
 # hello_world
 
-A new Flutter project.
-
+An introduction to flutter page where I make a hello world app.
 
 Main Screen | Pop up Screen
 ------------|--------------
